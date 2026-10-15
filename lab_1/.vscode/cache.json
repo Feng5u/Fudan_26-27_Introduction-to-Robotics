@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "project": {
+    "selectedOperatorPaths": [],
+    "compiledOpPaths": {}
+  },
+  "folders": {
+    "/home/feng5u/桌面/hw/26 年秋/机器人学导论/lab_1": {
+      "opsMeet": [],
+      "opsList": [],
+      "experimentalOpsList": []
+    }
+  },
+  "fileMapLists": {
+    "sanitizer": [],
+    "simulate": [],
+    "on_board": []
+  },
+  "sanitizerPythonTarget": {}
+}
